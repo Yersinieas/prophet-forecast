@@ -1,0 +1,2 @@
+# This file keeps the outputs/ folder tracked by git.
+# Forecast plots and CSVs will be saved here (ignored by .gitignore).
