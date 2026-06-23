@@ -1,0 +1,21 @@
+# Core forecasting
+prophet==1.1.5
+
+# Data handling
+pandas==2.1.4
+numpy==1.26.4
+
+# Visualisation
+matplotlib==3.8.2
+plotly==5.18.0
+
+# ML evaluation
+scikit-learn==1.3.2
+
+# Notebook
+jupyter==1.0.0
+ipykernel==6.29.0
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.66.1
